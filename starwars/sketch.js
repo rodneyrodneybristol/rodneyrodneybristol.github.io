@@ -18,7 +18,7 @@ function setup() {
   graphics = createGraphics(400,100);
   graphics.background(123);
   graphics.textSize(32);
-  graphics.text('twat  twat  twat  twat  twat  twat  twat  \ntwat  twat  twat  twat  twat  twat  \ntwat  twat  twat  twat  twat  twat  twat', 10, 30);
+  graphics.text('star wars star wars  star warst  star wars  \nstar wars star wars star wars \nstar wars star wars star wars', 10, 30);
   graphics.fill(0, 102, 153);
   
   
