@@ -20,10 +20,17 @@ sidebar:
     link: https://www.instagram.com/rodneyrodneybristol
   - name: Audio
     icon: <i class="fa-regular fa-folder"></i>
-    link: https://rodneyrodneybristol.github.io/another-page.html
+    link: https://rodneyrodneybristol.github.io/Audio.html
   - name: IOT
     icon: <i class="fa-regular fa-folder"></i>
-    link: https://rodneyrodneybristol.github.io/another-page1.html
+    link: https://rodneyrodneybristol.github.io/IOT.html
+  - name: Music
+    icon: <i class="fa-solid fa-record-vinyl"></i>
+    link: https://rodneyrodneybristol.github.io/Music.html
+
+
+
+    
     
   
     
