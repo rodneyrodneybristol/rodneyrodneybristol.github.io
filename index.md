@@ -2,30 +2,10 @@
 layout: default
 ---
 
-# Welcome
+# Hello!
 
 
 
-Hi, this is a place where I document some of my work and ongoing projects in a more palettable fasion
+I am Rodney. I make things.
 
-## An inspirational quote:
-
-> "life is like a rollercoaster"
->
-> R.Keating, 2000
-
-## Some complex code i designed:
-
-```c
-  int main() {
-   
-   printf("Hello, World!");
-   return 0;
-}
-```
-## Important:
-
-
-```
-Poop.
-```
+This site contains documentation of my creative projects.
