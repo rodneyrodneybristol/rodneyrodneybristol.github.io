@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Welcome
-[Link to another page](./Audio.html).
+
 
 
 Hi, this is a place where I document some of my work and ongoing projects in a more palettable fasion
@@ -14,7 +14,7 @@ Hi, this is a place where I document some of my work and ongoing projects in a m
 >
 > R.Keating, 2000
 
-### Some complex code i designed:
+## Some complex code i designed:
 ```c
   int main() {
    
@@ -22,7 +22,7 @@ Hi, this is a place where I document some of my work and ongoing projects in a m
    return 0;
 }
 ```
-### Important!:
+## Important:
 ```
 Poop.
 ```
