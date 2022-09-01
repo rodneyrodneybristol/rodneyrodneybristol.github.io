@@ -27,9 +27,12 @@ sidebar:
   - name: Music
     icon: <i class="fa-solid fa-record-vinyl"></i>
     link: https://rodneyrodneybristol.github.io/Music.html
-  - name: p5
+  - name: p5 test 1
     icon: <i class="fa-solid fa-record-vinyl"></i>
-    link: https://rodneyrodneybristol.github.io/jspage.html
+    link: https://rodneyrodneybristol.github.io/alien/
+  - name: p5 test 2
+    icon: <i class="fa-solid fa-record-vinyl"></i>
+    link: https://rodneyrodneybristol.github.io/starwars/
 
 
 
