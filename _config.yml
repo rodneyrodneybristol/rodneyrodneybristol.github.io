@@ -18,9 +18,13 @@ sidebar:
   - name: Instagram
     icon: <i class="fa-brands fa-instagram"></i>
     link: https://www.instagram.com/rodneyrodneybristol
-  - name: AnotherPage
+  - name: Audio
     icon: <i class="fa-regular fa-folder"></i>
     link: https://rodneyrodneybristol.github.io/another-page.html
+  - name: IOT
+    icon: <i class="fa-regular fa-folder"></i>
+    link: https://rodneyrodneybristol.github.io/another-page1.html
+    
   
     
 
