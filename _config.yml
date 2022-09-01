@@ -29,10 +29,10 @@ sidebar:
     link: https://rodneyrodneybristol.github.io/Music.html
   - name: p5 test 1
     icon: <i class="fa-solid fa-record-vinyl"></i>
-    link: https://rodneyrodneybristol.github.io/alien
+    link: https://rodneyrodneybristol.github.io/alien/sketch.js
   - name: p5 test 2
     icon: <i class="fa-solid fa-record-vinyl"></i>
-    link: https://rodneyrodneybristol.github.io/starwars
+    link: https://rodneyrodneybristol.github.io/starwars/sketch.js
 
 
 
