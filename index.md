@@ -29,6 +29,13 @@ var fun = function lang(l) {
   return true;
 }
 ```
+```c
+  int main() {
+   // printf() displays the string inside quotation
+   printf("Hello, World!");
+   return 0;
+}
+```
 
 ```ruby
 # Ruby code with syntax highlighting
