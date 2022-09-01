@@ -1,12 +1,9 @@
 ---
-layout: post
-title:  "Test Test Test"
+layout: default
 ---
 
-# Welcome
+## Welcome to another page
 
-**Hello world**, TestTestTest
-
-Testicles
+_yay_
 
 [back](./)
