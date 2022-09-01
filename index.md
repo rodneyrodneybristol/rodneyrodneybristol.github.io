@@ -23,6 +23,9 @@ Hi, this is a place where I document some of my work and ongoing projects in a m
 }
 ```
 ## Important:
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.10.2/p5.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.10.2/addons/p5.sound.js"></script>
+<script src="sketch.js"></script>
 ```
 Poop.
 ```
